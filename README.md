@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Js and React**
 
-- 👨‍💻 All of my projects are available at [https://first-blog-ranjan.netlify.app](https://first-blog-ranjan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://first-blog-ranjan.netlify.app](https://first-blkog-ranjan.netlify.app)
 
 
 
