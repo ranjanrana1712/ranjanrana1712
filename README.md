@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://first-blog-ranjan.netlify.app](https://first-blog-ranjan.netlify.app)
 
-- ⚡ Fun fact **I have experience in logistic coordination and sales**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
