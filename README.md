@@ -36,7 +36,7 @@
  
  🌱 I’m currently learning **DSA With Java**
 
-💬 Ask me about **Python, Java, Javascript... or anything [here](https://twitter.com/Annu66126617)**
+💬 Ask me about **Python, Java, Javascript... or anything [here](https://twitter.com/ranjanrana1712)**
 
  </div>
  
@@ -49,9 +49,6 @@
 </div>
 
 <br/>
-
-
-
 
 <!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+...+🔥;"/>
