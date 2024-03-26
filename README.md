@@ -18,7 +18,7 @@
     <a href="https://twitter.com/ranjanrana1712" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" />
   </a>
-  <a href="https://bio.link/annukumalu" target="_blank">
+  <a href="https://bio.link/annukumaClu" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
